@@ -2,7 +2,7 @@
   "name": "articulatetest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goblincore.github.io//articulatetest",
+  "homepage": "https://goblincore.github.io/articulatetest",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.4",
