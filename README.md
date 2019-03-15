@@ -15,5 +15,5 @@ I was short on time this week - I had alot of work to do for my job and I didn't
 ## Project Structure
 
 Dummy JSON data is found in the file "dummyData.json"
-This is imported in the main APP.js file where it is converted into amn array of JavaScript objects that is passed to the Flashcards component as a prop. The Flashcards component takes the array of objects and uses the map function to generate a list of individual Flashcard components, each which takes an object from the array as a prop.
-The Flashcard component takes the props and renders them although it also has a state which keeps track of whether the card has been flipped or not. The Flashcards component could be made stateless as it's just passing data and there's no logic involved. 
+This is imported in the main APP.js file where it is converted into an array of JavaScript objects that is then passed to the Flashcards component as a prop. The Flashcards component takes the array of objects and uses the map function to generate a list of individual Flashcard components, each which takes an object from the array as a prop.
+The Flashcard component takes the props and renders them, although it also has a state which keeps track of whether the card has been flipped or not. The Flashcards component could be made stateless as it's just passing data and there's no logic involved. 
