@@ -10,7 +10,7 @@ I picked the Flashcards block mostly because I loved the flipping card animation
 
 ## Methodology
 
-I was short on time this week - I had alot of work to do for my job and I didn't get to work on this until a few hours ago. So instead of trying to be too creative, I made it my goal to replicate the example as much as possible and using the pre-existing css classes when possible.
+I was short on time this week - I had alot of work to do for my job and I didn't get to work on this until a few hours ago. So instead of trying to be too creative, I made it my goal to replicate the example as much as possible by using the pre-existing css classes when possible.
 
 ## Project Structure
 
