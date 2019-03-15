@@ -2,6 +2,7 @@
 <img src="./assets/flipcard.gif" width=100%>
 
 Gif of a screenrecording of the components in action^
+Live version found here: https://goblincore.github.io/articulatetest/
 
 ## Flashcards Block Components
 
